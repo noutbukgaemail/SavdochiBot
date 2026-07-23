@@ -1,0 +1,2 @@
+# SavdochiBot
+Telegram Stars Bot
